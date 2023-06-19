@@ -1,1 +1,1 @@
-# YOLOv5-Weapon-Detection
+# Weapon Detection Using YOLO architecture
